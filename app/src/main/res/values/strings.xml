@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Guali Tutor</string>
+    <string name="menu_lecciones">Lecciones</string>
+    <string name="menu_configuracion">Configuración</string>
+    <string name="menu_historial">Historial</string>
+    <string name="menu_ayuda">Ayuda</string>
+    <string name="etiqueta_leccion_activa">LECCIÓN ACTIVA</string>
+    <string name="titulo_leccion_activa">leccion-01-hola-mundo</string>
+    <string name="descripcion_imagen_leccion">Imagen de la lección activa</string>
+    <string name="descripcion_leccion">Descripción de la lección activa.\n\nPaso 1: Hola Mundo\n\nEn base al código en pantalla, crea una versión que imprima primero \"Hola\" y luego en una nueva línea \"Guali con Java 25!\".\n\nRecuerde que el código debe compilar correctamente. El botón Ejecutar validará su resultado.</string>
+    <string name="hint_editor">Escriba aquí su código Java</string>
+    <string name="boton_compilar">Compilar</string>
+    <string name="boton_ejecutar">Ejecutar</string>
+    <string name="consola_inicial">[Consola] Listo. Escriba código y presione Compilar.</string>
+    <string name="consola_editor_vacio">[Compilar] Error: el editor de código está vacío.</string>
+    <string name="consola_compilacion_exitosa">[Compilar] Compilación exitosa. Ya puede presionar Ejecutar.</string>
+    <string name="consola_ejecutando">[Ejecutar] Ejecutando el programa…</string>
+    <string name="consola_resultado">[Ejecutar] Ejecución finalizada.</string>
+    <string name="consola_menu">[Menú] Opción seleccionada: %1$s</string>
+</resources>

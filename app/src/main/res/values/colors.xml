@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="negro">#FF000000</color>
+    <color name="blanco">#FFFFFFFF</color>
+    <color name="gris_borde">#FF9E9E9E</color>
+    <color name="gris_fondo">#FFF2F4F8</color>
+    <color name="azul_borde">#FF2196F3</color>
+    <color name="verde_boton">#FF5CA832</color>
+    <color name="gris_boton">#FF8A8F98</color>
+    <color name="consola_fondo">#FF1E1E1E</color>
+    <color name="consola_texto">#FFE0E0E0</color>
+</resources>

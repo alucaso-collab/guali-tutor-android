@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.GualiTutor" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">@color/negro</item>
+        <item name="colorOnPrimary">@color/blanco</item>
+        <item name="colorSecondary">@color/verde_boton</item>
+    </style>
+</resources>
